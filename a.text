@@ -1,0 +1,26 @@
+<section class="py-10 bg-white sm:pt-16 lg:pt-24">
+    <div>
+        <div class="flex items-center justify-center">
+          <img src="./images/logo.png" alt="" />
+          <h1 class="text-4xl font-bold ml-4">Fruit Burst</h1>
+        </div>
+        <div>
+          <ul class="flex flex-wrap gap-5 justify-center lg:gap-12 mt-5">
+            <li>Home</li>
+            <li>About Us</li>
+            <li>Shop</li>
+            <li>All Fruits</li>
+            <li>Support</li>
+            <li>My Account</li>
+          </ul>
+        </div>
+        <div class="flex justify-center gap-5 lg:gap-20 mt-12">
+          <i class="fa-brands fa-twitter fa-2xl"></i>
+          <i class="fa-brands fa-facebook fa-2xl"></i>
+          <i class="fa-brands fa-youtube fa-2xl"></i>
+          <i class="fa-brands fa-linkedin-in fa-2xl"></i>
+          <i class="fa-brands fa-instagram fa-2xl"></i>
+          <i class="fa-brands fa-apple fa-2xl"></i>
+        </div>
+      </div>
+</section>
